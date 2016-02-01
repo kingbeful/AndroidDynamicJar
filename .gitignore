@@ -70,3 +70,4 @@ DynaSDK/bin/res/drawable-xhdpi/ic_launcher.png
 DynaSDK/gen/com/dyna/dynasdk/BuildConfig.java
 DynaSDK/gen/com/dyna/dynasdk/R.java
 DynaSDK/libs/android-support-v4.jar
+.DS_Store
